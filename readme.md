@@ -1,4 +1,4 @@
-#WoulfBot
+# WoulfBot
 
 Written for `Woulf Shadow Gaming` on Discord.
 Designed for a stateless environment (eg. Heroku), meaning that
